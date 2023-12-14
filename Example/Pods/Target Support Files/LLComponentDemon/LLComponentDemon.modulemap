@@ -1,0 +1,6 @@
+framework module LLComponentDemon {
+  umbrella header "LLComponentDemon-umbrella.h"
+
+  export *
+  module * { export * }
+}
